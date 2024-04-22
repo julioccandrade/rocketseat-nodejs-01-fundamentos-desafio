@@ -1,0 +1,17 @@
+{
+  "name": "01-fudamentos-nodejs-desafio",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "csv-parser": "^3.0.0"
+  }
+}
